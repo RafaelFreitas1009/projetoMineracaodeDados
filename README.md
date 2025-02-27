@@ -48,8 +48,8 @@ Para executar o código, siga os passos abaixo:
 
 ## 🏆 Reconhecimentos e Direitos Autorais
 
-**@autor:** [Seus Nomes]  
-**@contato:** [Seus E-mails]  
+**@autor:** Rafael Freitas de Paula  
+**@contato:** rafael.fp@discente.ufma.br  
 **@data última versão:** [Data de Hoje]  
 **@versão:** 1.0  
 **@outros repositórios:** [URLs - GitHub]  
@@ -57,7 +57,7 @@ Para executar o código, siga os passos abaixo:
 
 ## 📜 Licença MIT
 
-Este material é resultado de um trabalho acadêmico para a disciplina **"NOME_DISCIPLINA"**, sob a orientação do professor **Dr. Thales Levi Azevedo Valente**, semestre letivo **2024.2**, curso **Engenharia da Computação**, na **Universidade Federal do Maranhão (UFMA)**.
+Este material é resultado de um trabalho acadêmico para a disciplina **"MINERAÇÃO_DE_DADOS"**, sob a orientação do professor **Dr. Thales Levi Azevedo Valente**, semestre letivo **2024.2**, curso **Engenharia da Computação**, na **Universidade Federal do Maranhão (UFMA)**.
 
 Todo o material sob esta licença é **software livre**: pode ser usado para fins acadêmicos e comerciais sem nenhum custo. É licenciado sob os termos da **Licença MIT**, conforme descrito abaixo.
 
