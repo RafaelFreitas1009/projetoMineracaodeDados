@@ -22,8 +22,13 @@ Este repositório contém materiais desenvolvidos para o projeto de **Mineraçã
 - Python
 - Pandas
 - NumPy
+- Sklearn.metrics
+- Sklearn.ensemble
+- Sklearn.preprocessing
+- Sklearn.model_selection
 - Matplotlib
 - Scikit-learn
+- Seaborn
 
 ## 📥 Instalação
 
@@ -31,17 +36,13 @@ Para executar o código, siga os passos abaixo:
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seuusuario/projetoMineracaodeDados.git
+   git clone https://github.com/RafaelFreitas1009/projetoMineracaodeDados.git
    ```
 2. Acesse o diretório do código:
    ```bash
    cd projetoMineracaodeDados/codigo
    ```
-3. Instale as dependências:
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. Execute o Jupyter Notebook:
+3. Execute o Jupyter Notebook:
    ```bash
    jupyter notebook notebook.ipynb
    ```
